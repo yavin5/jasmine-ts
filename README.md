@@ -1,14 +1,12 @@
 # jasmine-ts
 
-[![Build Status](https://travis-ci.org/svi3c/jasmine-ts.svg?branch=master)](https://travis-ci.org/svi3c/jasmine-ts)
-
 A simplification for running [jasmine](https://www.npmjs.com/package/jasmine) with
 [ts-node](https://github.com/TypeStrong/ts-node).
 
 ## Installation
 
 ```
-npm i -D jasmine-ts
+npm install git+https://github.com/yavin5/jasmine-ts --dev-save
 ```
 
 ## Usage
@@ -54,11 +52,3 @@ npm i -D jasmine-ts
   ```
   npm test
   ```
-
-### Note
-
-You still need to install the typings for jasmine to make the typescript-compiler happy about your specs:
-
-```
-typings i -DG dt~jasmine
-```

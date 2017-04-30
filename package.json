@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/svi3c/jasmine-ts.git"
+    "url": "git+https://github.com/yavin5/jasmine-ts.git"
   },
   "keywords": [
     "node",
@@ -19,21 +19,21 @@
     "jasmine",
     "typescript"
   ],
-  "author": "Sven Reglitzki <sreglitzki@gmail.com>",
+  "author": "Yavin Five <yavinfive464@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/svi3c/jasmine-ts/issues"
+    "url": "https://github.com/yavin5/jasmine-ts/issues"
   },
-  "homepage": "https://github.com/svi3c/jasmine-ts#readme",
+  "homepage": "https://github.com/yavin5/jasmine-ts#readme",
   "dependencies": {
-    "jasmine": "^2.5.3",
-    "ts-node": "^2.1.0",
-    "typescript": "^2.2.1"
+    "jasmine": "~2.5.2",
+    "ts-node": "^2.0.0",
+    "typescript": "^2.1.5"
   },
   "devDependencies": {
-    "@types/jasmine": "^2.5.46",
-    "@types/node": "^7.0.8",
-    "jasmine-spec-reporter": "^3.2.0",
-    "tslint": "^4.5.1"
+    "@types/jasmine": "2.5.41",
+    "@types/node": "^6.0.45",
+    "jasmine-spec-reporter": "^3.0.0",
+    "tslint": "^4.3.0"
   }
 }

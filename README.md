@@ -6,7 +6,7 @@ A simplification for running [jasmine](https://www.npmjs.com/package/jasmine) wi
 ## Installation
 
 ```
-npm install git+https://github.com/yavin5/jasmine-ts --dev-save
+npm install git+https://github.com/yavin5/jasmine-ts --save-dev
 ```
 
 ## Usage
